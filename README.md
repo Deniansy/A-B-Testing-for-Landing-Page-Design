@@ -118,5 +118,5 @@ Cold significantly outperformed both Vibrant and Heat (p-value < alpha for all p
 ## 🔗 Related Links
 
 - 📄 [Presentation Slides (PDF)](https://drive.google.com/file/d/1uPpvwMSjwoAfHhOsuizigqRRgjM3KIX8/view?usp=sharing)
-- 📊 Full Power BI Dashboard *(https://drive.google.com/file/d/1nJpKeB5ivlSNBOqkeDWYGcPFAiQL7BmA/view?usp=sharing)*
-- 🔬 Google Colab Notebook *(https://colab.research.google.com/drive/1Ur6MR9FjstbnZhOIGmM6V2WKUajAjWpj?usp=sharing)*
+- 📊 [Full Power BI Dashboard] *(https://drive.google.com/file/d/1nJpKeB5ivlSNBOqkeDWYGcPFAiQL7BmA/view?usp=sharing)*
+- 🔬 [Google Colab Notebook] *(https://colab.research.google.com/drive/1Ur6MR9FjstbnZhOIGmM6V2WKUajAjWpj?usp=sharing)*
