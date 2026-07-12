@@ -30,7 +30,7 @@ This project runs an end-to-end A/B test across three landing page color themes 
 
 ## 📊 Dataset Overview
 
-Dataset downloaded from **[Kaggle](https://www.kaggle.com)** — website conversion data for bluetooth speaker sales, containing **30,000 user sessions** segmented by landing page variant, with user demographics, session engagement, purchase, and payment details.
+Dataset downloaded from **[Kaggle](https://www.kaggle.com/datasets/sandeep1080/bassburst/data)** — website conversion data for bluetooth speaker sales, containing **30,000 user sessions** segmented by landing page variant, with user demographics, session engagement, purchase, and payment details.
 
 | Column Name | Description |
 |---|---|
@@ -120,7 +120,6 @@ Cold significantly outperformed both Vibrant and Heat (p-value < alpha for all p
 
 ## 🔗 Related Links
 
-- 📄 [Presentation Slides (PDF)](./A_B_Testing_for_Landing_Page_Design.pdf)
-- 📊 Full Power BI Dashboard *(add your link here)*
-- 🔬 Google Colab Notebook *(add your link here)*
-- 🌐 [My Portfolio Website](https://deniansy.github.io/portfolio/)
+- 📄 [Presentation Slides (PDF)](https://drive.google.com/file/d/1uPpvwMSjwoAfHhOsuizigqRRgjM3KIX8/view?usp=sharing)
+- 📊 Full Power BI Dashboard *(https://drive.google.com/file/d/1nJpKeB5ivlSNBOqkeDWYGcPFAiQL7BmA/view?usp=sharing)*
+- 🔬 Google Colab Notebook *(https://colab.research.google.com/drive/1Ur6MR9FjstbnZhOIGmM6V2WKUajAjWpj?usp=sharing)*
