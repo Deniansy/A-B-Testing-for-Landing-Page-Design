@@ -97,9 +97,6 @@ Cold significantly outperformed both Vibrant and Heat (p-value < alpha for all p
 - **Paid channel** had the highest conversion rate (15.68%), significantly higher than **Social** (14.45%, p < 0.05).
 - Referral traffic had the highest bounce rate (19.64%).
 
-> 📌 *Add your Power BI / Colab chart screenshots here, e.g.:*
-> `![Conversion Rate by Landing Page](assets/conversion_rate_by_design.png)`
-
 ## ✍️ Recommendations
 
 **Landing Page Design**
